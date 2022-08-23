@@ -13,3 +13,6 @@ I was able to get an accuracy of 92% with the SVM model.
 2. Scikit-Learn
 3. Matplotlib
 4. Tensorflow
+
+
+Thank you.
